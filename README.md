@@ -20,6 +20,7 @@ Add this import header in your main css file, src/index.css in our case:
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
  
 5. Configure the tailwind template paths in tailwind.config.js:
 

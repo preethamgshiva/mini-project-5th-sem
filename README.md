@@ -1,20 +1,20 @@
 # mini-project-5th-sem
 
 1.
-npm create vite@latest
-project name : diagnosis-portal
-framework: react
-varient: typescript
+npm create vite@latest<br/>
+project name : diagnosis-portal<br/>
+framework: react<br/>
+varient: typescript<br/>
 
 2.
-now,
-cd diagnosis-portal
-npm install
+now,<br/>
+cd diagnosis-portal<br/>
+npm install<br/>
 
 3.
-npm install -D tailwindcss postcss autoprefixer /n
-npx tailwindcss init -p
+npm install -D tailwindcss postcss autoprefixer <br/>
+npx tailwindcss init -p<br/>
 
 
-4. follow the rules in this website
-   https://ui.shadcn.com/docs/installation/vite
+4. follow the rules in this website<br/>
+   https://ui.shadcn.com/docs/installation/vite<br/>

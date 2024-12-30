@@ -12,7 +12,7 @@ cd diagnosis-portal
 npm install
 
 3.
-npm install -D tailwindcss postcss autoprefixer
+npm install -D tailwindcss postcss autoprefixer /n
 npx tailwindcss init -p
 
 
